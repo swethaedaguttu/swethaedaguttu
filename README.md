@@ -5,13 +5,13 @@ A passionate Full Stack Developer from India who enjoys building web application
 
 📧 Email Me: swethaswetha6833@gmail.com for collaboration, freelance projects, or professional opportunities.
 
-🔭 I'm currently working on Full Stack and AI-powered applications
-🌱 I'm currently learning AI Agents, LLMs, and Cloud Technologies
-👯 I'm looking to collaborate on Web Development and AI Projects
-🤝 I'm looking for help with Advanced AI and Scalable Applications
-💬 Ask me about Python, React.js, Node.js, Django, JavaScript, SQL, and AI Tools
-📫 How to reach me: swethaswetha6833@gmail.com
-⚡ Fun fact: I enjoy turning ideas into real-world applications
+* 🔭 I'm currently working on Full Stack and AI-powered applications
+* 🌱 I'm currently learning AI Agents, LLMs, and Cloud Technologies
+* 👯 I'm looking to collaborate on Web Development and AI Projects
+* 🤝 I'm looking for help with Advanced AI and Scalable Applications
+* 💬 Ask me about Python, React.js, Node.js, Django, JavaScript, SQL, and AI Tools
+* 📫 How to reach me: [swethaswetha6833@gmail.com](mailto:swethaswetha6833@gmail.com)
+* ⚡ Fun fact: I enjoy turning ideas into real-world applications
 
 🚀 Featured Projects
 
