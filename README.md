@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**swethaedaguttu/swethaedaguttu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Swetha Edagottu**, a Full Stack Developer from India.
 
-Here are some ideas to get you started:
+I enjoy building web applications and AI-powered solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack includes **Python, React.js, Node.js, Django, JavaScript, SQL, HTML, and CSS**. I also enjoy working with **AI tools, Large Language Models (LLMs), and cloud technologies**.
+
+I've worked on projects such as **Communion Platform**, **AI Chatbot**, **Multi-Tenant Management System**, and **Weather Reporting Application**.
+
+I'm always exploring new technologies, improving my development skills, and building innovative applications.
+
+Fun Facts
+
+* 🤖 Interested in Artificial Intelligence and LLMs
+* 💻 Passionate about Full Stack Development
+* 🌱 Always learning new technologies
+* 🎬 Enjoy anime and creative projects
+* 🚀 Love turning ideas into working applications
